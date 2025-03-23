@@ -1,1 +1,1 @@
-THis is my first File that is used for learning git commit
+This is my first File that is used for learning git commit
